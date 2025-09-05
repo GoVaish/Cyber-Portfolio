@@ -3,6 +3,5 @@ theme:
   name: material
 plugins:
   - search 
-  - simple-sitemap
 nav:
   - Home: index.md
