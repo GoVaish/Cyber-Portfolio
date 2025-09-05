@@ -1,22 +1,8 @@
 site_name: Vaishnavi Gobade — Cyber Security
 theme:
   name: material
-  features:
-    - navigation.tabs
-    - search.suggest
-    - search.highlight
-nav:
-  - Home: index.md
-  - Projects:
-    - DNS DDoS (ML + Graylog): projects/ddos-ml.md
-    - Filebeat→Logstash→Graylog: projects/ingest-pipeline.md
-  - Write-ups: writeups/index.md
-  - Resume: resume.md
-repo_url: https://github.com/GoVaish/cyber-portfolio
 plugins:
   - search
-  - sitemap
-extra:
-  social:
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/<you>
+  - sitemap  
+nav:
+  - Home: index.md
