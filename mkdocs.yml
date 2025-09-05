@@ -2,7 +2,6 @@ site_name: Vaishnavi Gobade — Cyber Security
 theme:
   name: material
 plugins:
-  - search
-  - sitemap  
+  - search 
 nav:
   - Home: index.md
