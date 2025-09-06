@@ -6,9 +6,8 @@
 This application, designed to let users interact with Maisie the cat, send fan messages, and explore related content, provided an ideal environment to simulate **real-world attack scenarios**.  
 
 The assessment was conducted using **Burp Suite** and **cURL**, with a strict **manual-only approach** (no automated vulnerability scanners) to ensure accuracy and hands-on analysis. The testing process was guided by the **OWASP Top 10** framework, and each vulnerability discovered was carefully evaluated and classified according to the **CVSS v3.1 severity scoring system**, ensuring industry-standard reporting of risk levels.
-  
 
-[Check Out Details](https://www.linkedin.com/in/vaishnavi-gobade-06) 
+[Read More...](docs/link.md) 
 
 
 **2. Cyber Risk Assessment**
@@ -20,6 +19,18 @@ These projects combined technical depth with governance frameworks, delivering s
 **GDPR & Data Governance (Post-Brexit):** Assessed non-compliance risks and proposed frameworks using **ISO 27001** and **COBIT**, emphasizing robust data retention policies to prevent regulatory penalties.
 **Phishing & Identity Security:** Explored phishing detection strategies through the **NIST Cybersecurity Framework (CSF)**, with a strong focus on **Multi-Factor Authentication (MFA)** and its impact on reducing account compromise.
 **Insider Threat Mitigation:** Investigated high-profile cases (e.g., Tesla, Capital One) and built actionable models leveraging **RBAC, monitoring, and auditing** to minimize misuse of privileged access.  
-**CRM & Global Data Breaches:** Identified risks from poor encryption, misconfigured APIs, and weak streaming app integrations, recommending **secure API configurations, end-to-end encryption, and GDPR-aligned controls**.  
+**CRM & Global Data Breaches:** Identified risks from poor encryption, misconfigured APIs, and weak streaming app integrations, recommending **secure API configurations, end-to-end encryption, and GDPR-aligned controls**. 
+
+[Read More...](docs/link.md)
 
 
+**3. Capture the Flag (CTF) – OverTheWire: Bandit Challenge** 
+
+<img width="300" height="150" alt="Over The Wire" align="right" width="400" src="https://github.com/user-attachments/assets/c294d6a4-df25-4186-bb11-091be97a899c" />
+To strengthen my practical cybersecurity skills, I participated in the **OverTheWire: Bandit CTF challenge** and successfully solved **22 levels**. This hands-on experience provided a deeper understanding of **Linux fundamentals, privilege escalation, file system navigation, and secure authentication practices**.  
+
+Each level required creative problem-solving — from decoding hidden files and bypassing permissions to leveraging secure shell (SSH) for remote access. By progressing through increasingly complex challenges, I gained the ability to think like an attacker while sharpening my defensive mindset.  
+
+This experience not only enhanced my **Linux proficiency** but also honed critical skills in **problem-solving, persistence, and real-world system exploitation techniques**. It demonstrated how small oversights in system configuration can be exploited, reinforcing the importance of strong security practices in everyday IT operations.  
+
+[Read More...](docs/link.md)
