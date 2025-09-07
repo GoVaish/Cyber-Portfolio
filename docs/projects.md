@@ -12,7 +12,7 @@ The assessment was conducted using **Burp Suite** and **cURL**, with a strict **
 
 **2. Cyber Risk Assessment**
 
-<img width="300" height="300" alt="cyber-risk-management-diagram" align="right" width="400" src="https://github.com/user-attachments/assets/3376891f-9df8-4c3e-af45-fc837232dde4" /> During my MSc Cybersecurity journey at Roehampton University, I have worked on **real-world projects** addressing challenges in **data privacy, regulatory compliance, cyber risk management, and threat mitigation**. 
+<img width="300" height="200" alt="cyber-risk-management-diagram" align="right" width="400" src="https://github.com/user-attachments/assets/3376891f-9df8-4c3e-af45-fc837232dde4" /> During my MSc Cybersecurity journey at Roehampton University, I have worked on **real-world projects** addressing challenges in **data privacy, regulatory compliance, cyber risk management, and threat mitigation**. 
 
 These projects combined technical depth with governance frameworks, delivering solutions that resonate with both technical and business stakeholders.  
 
@@ -34,3 +34,18 @@ Each level required creative problem-solving — from decoding hidden files and 
 This experience not only enhanced my **Linux proficiency** but also honed critical skills in **problem-solving, persistence, and real-world system exploitation techniques**. It demonstrated how small oversights in system configuration can be exploited, reinforcing the importance of strong security practices in everyday IT operations.  
 
 [Read More...](link.md)
+
+
+**4. Digital Forensics**
+<img width="300" height="150" alt="Forensics" align="right" width="400" src="https://github.com/user-attachments/assets/71b1ff83-4d34-425b-9137-b2f731b8ea8f" />
+This assessment examines a suspected insider threat on a Windows 10 VM by analysing a virtual disk (**win10_Portfolio-disk.vhd**) and a memory image (**win10-memory.raw**).  
+The objectives were to surface indicators of compromise, reconstruct user actions, assess scope/severity, and present repeatable, admissible findings.  
+Acquisition and handling followed **ACPO** best practice with pre/post **hash** verification and a documented **chain of custody**.  
+Methods blended volatile-memory triage, registry and filesystem artefact parsing, and multi-source timeline correlation to cross-validate events.  
+**Volatility** was used to enumerate processes/DLLs, inspect network artefacts, and build **pslist/psscan/timeliner** views with SID ownership checks.  
+**Autopsy** supported registry hive analysis (NTUSER, SAM, SYSTEM, USRCLASS), filesystem traversal, and extraction of user activity traces.  
+**Eric Zimmerman’s tools** parsed **Amcache/Prefetch/ShellBags**, produced concise timelines, and validated persistence/execution points.  
+Supporting utilities included **WSL (Ubuntu)** for scripting, **Rapid Table** for hex/decimal checks, **Filetime Convertor** for timestamp normalisation, and hashing utilities for integrity.  
+
+[Read More...](link.md)
+
