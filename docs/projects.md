@@ -37,6 +37,7 @@ This experience not only enhanced my **Linux proficiency** but also honed critic
 
 
 **4. Digital Forensics**
+
 <img width="300" height="150" alt="Forensics" align="right" width="400" src="https://github.com/user-attachments/assets/71b1ff83-4d34-425b-9137-b2f731b8ea8f" />
 This assessment examines a suspected insider threat on a Windows 10 VM by analysing a virtual disk (**win10_Portfolio-disk.vhd**) and a memory image (**win10-memory.raw**).  
 The objectives were to surface indicators of compromise, reconstruct user actions, assess scope/severity, and present repeatable, admissible findings.  
