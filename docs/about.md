@@ -16,7 +16,8 @@ I am a Cybersecurity Professional with an MSc in Cyber Security, passionate abou
 
 📌 My MSc project focused on *Detecting DNS-based DDoS attacks using Machine Learning and integrating it with Graylog for real-time alerting and visualization*—designed to provide SMEs with accessible and effective threat detection.
 
-💼 Previous Experience
+💼 Experience
+
 I worked at Deloitte USI for over 3 years in diverse roles such as Salesforce QA, Administrator, and Developer, where I gained valuable experience in enterprise systems, security integration, and large-scale client delivery. This exposure honed my adaptability, problem-solving mindset, and ability to work with cross-functional teams in complex environments.
 
 🌍 Open to collaboration on projects involving:
