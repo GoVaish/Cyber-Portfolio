@@ -1,16 +1,20 @@
 # Projects/ Assesments 
 
-**1. Manual Pentesting**
+**1. MSc Project: Detecting DDoS Attack and Visualize on Graylog**
+As part of my MSc Dissertation I worked on project where I detected DNS DDoS Attacks with Machine Learning and Visualized it on Graylog an open source SIEM tool. 
+
+
+
+**2. Manual Pentesting**
 
 <img width="300" height="150" alt="Vulnerability Chart" align="right" width="400" src="https://github.com/user-attachments/assets/31d23919-8840-44c8-8a5b-5d75a310512d" /> As part of my MSc Cybersecurity portfolio at Roehampton University, I carried out a **manual penetration test** on the *“Maisie: The Cat”* PHP/MySQL web application.
 This application, designed to let users interact with Maisie the cat, send fan messages, and explore related content, provided an ideal environment to simulate **real-world attack scenarios**.  
 
 The assessment was conducted using **Burp Suite** and **cURL**, with a strict **manual-only approach** (no automated vulnerability scanners) to ensure accuracy and hands-on analysis. The testing process was guided by the **OWASP Top 10** framework, and each vulnerability discovered was carefully evaluated and classified according to the **CVSS v3.1 severity scoring system**, ensuring industry-standard reporting of risk levels.
 
-[Read More...](projectlist/pentest/) 
 
 
-**2. Cyber Risk Assessment**
+**3. Cyber Risk Assessment**
 
 <img width="300" height="200" alt="cyber-risk-management-diagram" align="right" width="400" src="https://github.com/user-attachments/assets/3376891f-9df8-4c3e-af45-fc837232dde4" /> During my MSc Cybersecurity journey at Roehampton University, I have worked on **real-world projects** addressing challenges in **data privacy, regulatory compliance, cyber risk management, and threat mitigation**. 
 
@@ -21,10 +25,15 @@ These projects combined technical depth with governance frameworks, delivering s
 **Insider Threat Mitigation:** Investigated high-profile cases (e.g., Tesla, Capital One) and built actionable models leveraging **RBAC, monitoring, and auditing** to minimize misuse of privileged access.  
 **CRM & Global Data Breaches:** Identified risks from poor encryption, misconfigured APIs, and weak streaming app integrations, recommending **secure API configurations, end-to-end encryption, and GDPR-aligned controls**. 
 
-[Read More...](projectlist/crm/)
 
 
-**3. Capture the Flag (CTF) – OverTheWire: Bandit Challenge** 
+**4. Networking Assessment: Sandboxed Network analysis with Zabbix**
+
+
+
+
+
+**5. Capture the Flag (CTF) – OverTheWire: Bandit Challenge** 
 
 <img width="300" height="150" alt="Over The Wire" align="right" width="400" src="https://github.com/user-attachments/assets/c294d6a4-df25-4186-bb11-091be97a899c" />
 To strengthen my practical cybersecurity skills, I participated in the **OverTheWire: Bandit CTF challenge** and successfully solved **22 levels**. This hands-on experience provided a deeper understanding of **Linux fundamentals, privilege escalation, file system navigation, and secure authentication practices**.  
@@ -33,10 +42,9 @@ Each level required creative problem-solving — from decoding hidden files and 
 
 This experience not only enhanced my **Linux proficiency** but also honed critical skills in **problem-solving, persistence, and real-world system exploitation techniques**. It demonstrated how small oversights in system configuration can be exploited, reinforcing the importance of strong security practices in everyday IT operations.  
 
-[Read More...](projectlist/ctf/)
 
 
-**4. Digital Forensics**
+**6. Digital Forensics**
 
 <img width="300" height="150" alt="Forensics" align="right" width="400" src="https://github.com/user-attachments/assets/71b1ff83-4d34-425b-9137-b2f731b8ea8f" />
 This assessment examines a suspected insider threat on a Windows 10 VM by analysing a virtual disk (**win10_Portfolio-disk.vhd**) and a memory image (**win10-memory.raw**).  
@@ -48,5 +56,4 @@ Methods blended volatile-memory triage, registry and filesystem artefact parsing
 **Eric Zimmerman’s tools** parsed **Amcache/Prefetch/ShellBags**, produced concise timelines, and validated persistence/execution points.  
 Supporting utilities included **WSL (Ubuntu)** for scripting, **Rapid Table** for hex/decimal checks, **Filetime Convertor** for timestamp normalisation, and hashing utilities for integrity.  
 
-[Read More...](projectlist/forensics/)
 
