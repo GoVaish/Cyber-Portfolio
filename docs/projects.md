@@ -7,7 +7,7 @@ This application, designed to let users interact with Maisie the cat, send fan m
 
 The assessment was conducted using **Burp Suite** and **cURL**, with a strict **manual-only approach** (no automated vulnerability scanners) to ensure accuracy and hands-on analysis. The testing process was guided by the **OWASP Top 10** framework, and each vulnerability discovered was carefully evaluated and classified according to the **CVSS v3.1 severity scoring system**, ensuring industry-standard reporting of risk levels.
 
-[Read More...](projectlist/pentest.md) 
+[Read More...](projectlist/pentest/) 
 
 
 **2. Cyber Risk Assessment**
@@ -21,7 +21,7 @@ These projects combined technical depth with governance frameworks, delivering s
 **Insider Threat Mitigation:** Investigated high-profile cases (e.g., Tesla, Capital One) and built actionable models leveraging **RBAC, monitoring, and auditing** to minimize misuse of privileged access.  
 **CRM & Global Data Breaches:** Identified risks from poor encryption, misconfigured APIs, and weak streaming app integrations, recommending **secure API configurations, end-to-end encryption, and GDPR-aligned controls**. 
 
-[Read More...](projectlist/crm.md)
+[Read More...](projectlist/crm/)
 
 
 **3. Capture the Flag (CTF) – OverTheWire: Bandit Challenge** 
@@ -33,7 +33,7 @@ Each level required creative problem-solving — from decoding hidden files and 
 
 This experience not only enhanced my **Linux proficiency** but also honed critical skills in **problem-solving, persistence, and real-world system exploitation techniques**. It demonstrated how small oversights in system configuration can be exploited, reinforcing the importance of strong security practices in everyday IT operations.  
 
-[Read More...](projectlist/ctf.md)
+[Read More...](projectlist/ctf/)
 
 
 **4. Digital Forensics**
@@ -48,5 +48,5 @@ Methods blended volatile-memory triage, registry and filesystem artefact parsing
 **Eric Zimmerman’s tools** parsed **Amcache/Prefetch/ShellBags**, produced concise timelines, and validated persistence/execution points.  
 Supporting utilities included **WSL (Ubuntu)** for scripting, **Rapid Table** for hex/decimal checks, **Filetime Convertor** for timestamp normalisation, and hashing utilities for integrity.  
 
-[Read More...](projectlist/forensics.md)
+[Read More...](projectlist/forensics/)
 
