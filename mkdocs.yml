@@ -5,12 +5,14 @@ theme:
 use_directory_urls: true
 plugins:
   - search
-  - exclude:
-      glob:
-        - projectlist/*.md
 nav:
   - Home: index.md
   - About Me: about.md
-  - Projects: projects.md
+  - Projects: 
+      - Overview: projects.md
+      - Penetration Testing: projectlist/pentest.md
+      - Cyber Risk Assessment: projectlist/crm.md
+      - Capture The Flag: projectlist/ctf.md
+      - Digital Forensics: projectlist/forensics.md
   - Connect With Me: link.md
   - Certifications: certs.md
