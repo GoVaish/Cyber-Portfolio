@@ -1,5 +1,5 @@
 site_name: Vaishnavi Gobade — Cyber Security Portfolio
-site_url: https://govaish.github.io/Cyber-Portfolio/
+site_urls: https://govaish.github.io/Cyber-Portfolio/
 theme:
   name: material
 use_directory_url: true
