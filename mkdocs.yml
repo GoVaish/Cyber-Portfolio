@@ -5,7 +5,7 @@ plugins:
   - search
   - exclude:
     glob:
-      -projectlist/*.md
+      - projectlist/*.md
 nav:
   - Home: index.md
   - About Me: about.md
