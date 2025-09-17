@@ -2,7 +2,10 @@ site_name: Vaishnavi Gobade — Cyber Security Portfolio
 theme:
   name: material
 plugins:
-  - search 
+  - search
+  - exclude:
+    glob:
+      -projectlist/*.md
 nav:
   - Home: index.md
   - About Me: about.md
