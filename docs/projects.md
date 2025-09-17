@@ -33,7 +33,7 @@ Each level required creative problem-solving — from decoding hidden files and 
 
 This experience not only enhanced my **Linux proficiency** but also honed critical skills in **problem-solving, persistence, and real-world system exploitation techniques**. It demonstrated how small oversights in system configuration can be exploited, reinforcing the importance of strong security practices in everyday IT operations.  
 
-[Read More...](link.md)
+[Read More...](projectlist/ctf)
 
 
 **4. Digital Forensics**
