@@ -17,7 +17,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: '3.x' }
       - name: Install dependencies
-        run: pip install "mkdocs>=1.5,<2" "mkdocs-material>=9,<10"
+        run: pip install "mkdocs>=1.5,<2" "mkdocs-material>=9,<10" "mkdocs-exclude"
       - name: Build MkDocs
         run: mkdocs build --strict
       - name: Upload site artifact
