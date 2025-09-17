@@ -10,11 +10,11 @@ nav:
   - About Me: about.md
   - Projects: 
       - Overview: projects.md
-      - MSc Project: ddos.md
+      - MSc Project: projectlist/ddos.md
       - Penetration Testing: projectlist/pentest.md
       - Cyber Risk Assessment: projectlist/crm.md
       - Capture The Flag: projectlist/ctf.md
       - Digital Forensics: projectlist/forensics.md
-      - Networking Assesssment: network.md
+      - Networking Assesssment: projectlist/network.md
   - Connect With Me: link.md
   - Certifications: certs.md
